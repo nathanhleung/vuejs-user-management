@@ -7,8 +7,8 @@ A user management app demo written using [Vue.js](http://vuejs.org/), based on t
 * Babel - ES6 transpiler
 
 ## Links
-[Vue.js User Management Demo](https://xyz.nathanhleung.com/vuejs-user-management/)
-[Codepen](http://codepen.io/LeungEnterprises/pen/QydRXz)
+* [Vue.js User Management Demo](https://xyz.nathanhleung.com/vuejs-user-management/)
+* [Codepen](http://codepen.io/LeungEnterprises/pen/QydRXz)
 
 ## License
 [ISC](https://github.com/nathanhleung/vuejs-user-management/blob/master/LICENSE)
