@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+#usersApp {
+  font-family: Roboto;
+}
+#usersApp .navbar-brand {
+  color: #fff;
+}
+#usersApp thead > tr > th,
+#usersApp tbody {
+  text-align: center;
+}
+#usersApp .form-control,
+#usersApp .btn {
+  border-radius: 0;
+}
+#usersApp .form-control {
+  box-shadow: none;
+}
